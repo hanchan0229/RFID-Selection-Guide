@@ -1,0 +1,7 @@
+
+/* 画面全体の簡易スタイル */
+:root { font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji"; }
+body { margin: 0; background: #fafafa; color: #111827; }
+main { padding: 16px; max-width: 960px; margin: 0 auto; }
+h1, h2 { color: #111827; }
+button { cursor: pointer; }
